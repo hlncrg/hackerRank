@@ -73,7 +73,7 @@ ladders=[]
 snakes=[]
 numCases=int(raw_input())
 numLadders=[]
-numSnakes=[]
+nses=int(raw_input())umSnakes=[]
 #get the input
 for caseIndex in range(numCases):
     numLadders.append(int(raw_input()))
